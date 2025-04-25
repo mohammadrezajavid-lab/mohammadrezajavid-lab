@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @mohammadrezajavid-lab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Mohammadreza Javid! 👋
 
-<!---
-mohammadrezajavid-lab/mohammadrezajavid-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Golang Developer](https://img.shields.io/badge/Backend-Golang-blue?style=for-the-badge&logo=go)
+![Linux](https://img.shields.io/badge/Linux-Experienced-informational?style=for-the-badge&logo=linux)
+![MySQL](https://img.shields.io/badge/Database-MySQL-brightgreen?style=for-the-badge&logo=mysql)
+
+![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+
+## About Me
+
+I'm **Mohammadreza Javid**, a Computer Engineering graduate with a strong passion for **Backend Development**.  
+Currently, I'm diving deep into **Golang**, and so far, the journey has been incredibly rewarding!
+
+- 📚 Constantly learning and building with Go
+- 🛠️ Familiar with **Relational Databases** like MySQL
+- 🐧 Comfortable working in **Linux environments**
+- 🤝 Always open to feedback, code reviews, and collaboration
+
+## Let's Collaborate!
+
+I believe in the power of open-source and community. If you come across my code and see ways I can improve,  
+please don’t hesitate to share your thoughts. I truly value constructive feedback and would love to learn from you!
+
+> _“Code is read more than it is written — let’s make it beautiful together!”_
+
+## Contact Me
+
+Feel free to reach out:
+
+- 📧 Email: [mohamad@gmail.com](mailto:mohammadrezajavid9@gmail.com)
+- 💬 Or just open an issue or pull request!
+
+---
+
+### Thanks for stopping by!
+
+If you found something interesting here, don’t forget to ⭐️ a repo or leave a comment.  
+Let’s connect, share knowledge, and grow together as developers!
