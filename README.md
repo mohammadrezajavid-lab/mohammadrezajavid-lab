@@ -4,17 +4,19 @@
 ![Linux](https://img.shields.io/badge/Linux-Experienced-informational?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-brightgreen?style=for-the-badge&logo=mysql)
 
-![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go Logo" width="150"/>
+</p>
 
 ## About Me
 
 I'm **Mohammadreza Javid**, a Computer Engineering graduate with a strong passion for **Backend Development**.  
 Currently, I'm diving deep into **Golang**, and so far, the journey has been incredibly rewarding!
 
-- 📚 Constantly learning and building with Go
-- 🛠️ Familiar with **Relational Databases** like MySQL
-- 🐧 Comfortable working in **Linux environments**
-- 🤝 Always open to feedback, code reviews, and collaboration
+- 📚 Constantly learning and building with Go  
+- 🛠️ Familiar with **Relational Databases** like MySQL  
+- 🐧 Comfortable working in **Linux environments**  
+- 🤝 Always open to feedback, code reviews, and collaboration  
 
 ## Let's Collaborate!
 
@@ -27,7 +29,7 @@ please don’t hesitate to share your thoughts. I truly value constructive feedb
 
 Feel free to reach out:
 
-- 📧 Email: [mohamad@gmail.com](mailto:mohammadrezajavid9@gmail.com)
+- 📧 Email: [mohamadrezajavid9@gmail.com](mailto:mohamadrezajavid9@gmail.com)  
 - 💬 Or just open an issue or pull request!
 
 ---
